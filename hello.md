@@ -1,3 +1,3 @@
 Hello!
 
-My name is Jeongdae Kim
+My name is Jeongdae KimCodyssey
